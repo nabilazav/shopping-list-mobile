@@ -1,3 +1,6 @@
+
+https://build.appcenter.ms/v0.1/apps/dbf95c8d-4def-445c-a116-deacc0844f24/branches/main/badge
+
 # shopping_list
 
 A new Flutter project.
